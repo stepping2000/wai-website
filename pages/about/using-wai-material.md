@@ -1,4 +1,4 @@
----
+---.
 title: "Using WAI Material: Permission to Use with Attribution"
 title_html: "Using WAI Material:<br>Permission to Use with Attribution"
 nav_title: Using WAI Material
